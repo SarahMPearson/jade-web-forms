@@ -1,0 +1,36 @@
+{
+  "name": "jade-web-forms",
+  "version": "0.0.0",
+  "description": "learning Jade",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SarahMPearson/jade-web-forms"
+  },
+  "author": "Sarah M Pearson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SarahMPearson/jade-web-forms/issues"
+  },
+  "homepage": "https://github.com/SarahMPearson/jade-web-forms",
+  "devDependencies": {
+    "blanket": "^1.1.6",
+    "chai": "^1.9.1",
+    "coveralls": "^2.11.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0",
+    "mocha": "^1.21.3",
+    "mocha-lcov-reporter": "0.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "express": "^4.7.2",
+    "jade": "^1.5.0",
+    "morgan": "^1.2.2"
+  }
+}
